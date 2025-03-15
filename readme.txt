@@ -63,6 +63,9 @@ Or manually download the ZIP and extract it.
 
 ---
 
+Refer screenshot folder for jpg images of our setup and screenshot of radar images
+
 ### **Developed by:**  
 - **Manish Googa (falconjustice7)**  
 - **Chiranjeevi Bogaraju**  
+- **Pallapu Jithendra**
